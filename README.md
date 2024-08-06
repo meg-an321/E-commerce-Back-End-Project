@@ -2,7 +2,14 @@
 
 ## Description
 This goal of this challenge is to build the back end for an e-commerce site.
-
+For this project bootcamp students had to Initialize Product model (table) by extending off Sequelize's Model class,
+set up fields and rules for Product model and / find all products
+ to be sure to include its associated Categories appropriate data.
+```md
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
+```
 ```md
 GIVEN a functional Express.js API
 WHEN I add my database name, PostgreSQL username, and PostgreSQL password to an environment variable file
@@ -19,9 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Visuals
-```md
 
-```
 ![screenshot](/Assets/13-orm-homework-demo-01.gif)
 
 ## Installation
@@ -38,9 +43,9 @@ npm install, psql -U postgres, \i db/schema.sql, /q, node seeds/index.js, npm st
 ## License
 N/A
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 
 ## Link
+
+[Live Video] https://drive.google.com/file/d/1KksNMGbGwXrgPA_36h323460rputb29b/view?usp=sharing
 
 [GitHub] https://github.com/meg-an321/E-commerce-Back-End-Project
